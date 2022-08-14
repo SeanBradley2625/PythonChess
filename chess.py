@@ -1,4 +1,3 @@
-#!/bin/python3.9
 import copy
 
 # This is where all the board data is stored. The program will directly manipulate this
